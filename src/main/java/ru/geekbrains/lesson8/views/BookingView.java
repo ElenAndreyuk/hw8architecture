@@ -63,6 +63,7 @@ public class BookingView implements View {
             System.out.println("Что-то пошло не так, попробуйте повторить попытку позже.");
         }
     }
+    //new
 
 
 }
